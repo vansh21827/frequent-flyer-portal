@@ -10,6 +10,8 @@ The project focuses on production-quality frontend engineering, including access
 
 The **End-to-End Frequent Flyer Portal** is designed to demonstrate how a modern enterprise-style frontend application can be built with a strong focus on usability, reliability, accessibility, and maintainability.
 
+Live URL: https://frequent-flyer-portal-phi.vercel.app/
+
 ### Primary user capabilities
 
 - View a personalized dashboard
